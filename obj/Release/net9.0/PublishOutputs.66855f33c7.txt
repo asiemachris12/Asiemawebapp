@@ -1,0 +1,7 @@
+C:\Dev\Asiemawebapp\publish\Asiemawebapp.exe
+C:\Dev\Asiemawebapp\publish\appsettings.Development.json
+C:\Dev\Asiemawebapp\publish\appsettings.json
+C:\Dev\Asiemawebapp\publish\Asiemawebapp.dll
+C:\Dev\Asiemawebapp\publish\Asiemawebapp.deps.json
+C:\Dev\Asiemawebapp\publish\Asiemawebapp.runtimeconfig.json
+C:\Dev\Asiemawebapp\publish\Asiemawebapp.pdb
