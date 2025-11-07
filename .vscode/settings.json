@@ -1,5 +1,0 @@
-{
-    "appService.preDeployTask": "publish-release",
-    "appService.deploySubpath": "bin\\Release\\net9.0\\publish",
-    "appService.defaultWebAppToDeploy": "/subscriptions/88187483-a72c-4f6a-83e5-43f1855302e1/resourceGroups/Asiema-Web-App/providers/Microsoft.Web/sites/Asiema"
-}

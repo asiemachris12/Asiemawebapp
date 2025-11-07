@@ -1,0 +1,16 @@
+# Compiled files
+bin/
+obj/
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables and credentials
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
